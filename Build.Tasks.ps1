@@ -1,3 +1,3 @@
 task Test {
-    iex ".\runPester.ps1"
+    iex ".\pester.bat"
 }
